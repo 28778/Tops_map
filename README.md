@@ -6,6 +6,8 @@
 
 `所以此项目的主要初衷是为了帮助新一届的同学了解学校。`
 
+![TOP MAP](https://github.com/28778/Tops_map/assets/31039562/3ee4104f-1d7a-4fb4-a567-253e6204d071)
+
 # 四川托普信息技术职业学院平面地图_png文档_附psd文档
 
 [![Build Status](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)]( )
