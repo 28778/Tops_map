@@ -5,11 +5,16 @@
 `因为学校每年都有变化，`
 
 `所以此项目的主要初衷是为了帮助新一届的同学了解学校。`
-## 老式的
+
+## 新的
+### 不带标识字
+![23_12_10](https://github.com/28778/Tops_map/assets/31039562/77d07cab-206d-4460-9bfd-3d9a700a3e79)
+### 附带标识字
+![23_12_10_Have_Text](https://github.com/28778/Tops_map/assets/31039562/c9d7e321-2808-4052-accc-cf4b8036035b)
+
+
+## 老的
 ![TOP MAP](https://github.com/28778/Tops_map/assets/31039562/1ee57bc3-e6b4-474b-bf96-e6bf8cbb7da2)
-## 新设计的
-![23_9_3_1](https://github.com/28778/Tops_map/assets/31039562/64f537a1-e079-42b1-845f-338b46ff5349)
-![23_10_28](https://github.com/28778/Tops_map/assets/31039562/e9175fbc-407f-44c7-b778-5feb4cea9fd4)
 
 # 四川托普信息技术职业学院平面地图_png文档_附psd文档1
 
